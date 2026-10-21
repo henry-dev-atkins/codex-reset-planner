@@ -1,3 +1,7 @@
+AI One-Shotted this from a prompt.
+
+Useful calender calculator for optimising your usage resets against your actual usage dynamics. 
+
 # Codex Reset Planner
 
 **A tiny, fully offline desktop calendar for planning Codex allowance resets.**
