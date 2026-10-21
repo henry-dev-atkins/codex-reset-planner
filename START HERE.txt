@@ -1,0 +1,21 @@
+CODEX RESET PLANNER — OFFLINE DESKTOP APP
+=========================================
+
+START:
+  Windows: Double-click Run on Windows.bat
+  macOS:   Double-click Run on macOS.command
+  Linux:   Run sh "Run on Linux.sh"
+
+Requires Python 3.10+ with Tkinter. No pip packages or internet are needed.
+The program reads Codex session metadata from ~/.codex (or $CODEX_HOME)
+without starting Codex or consuming API/model usage.
+
+Enter any saved-reset count manually, compare Steady/Bursty, and explore
+Calendar / Timeline / Month. No resets are performed by the app.
+
+README.md includes the screenshot, illustrated guide, limitations,
+troubleshooting, offline privacy notes, and public GitHub publishing steps.
+
+This ZIP is a versioned LOCAL Git repository. It is NOT yet published to
+GitHub. To make it public, authenticate to your own GitHub account and follow
+the README section "Publish this project as a public GitHub repository".

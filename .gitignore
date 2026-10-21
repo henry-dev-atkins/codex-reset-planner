@@ -1,0 +1,37 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Codex data, credentials and planner state: NEVER publish
+.codex/
+**/.codex/
+.codex-reset-planner/
+**/.codex-reset-planner/
+sessions/
+archived_sessions/
+**/sessions/
+**/archived_sessions/
+*.jsonl
+auth.json
+settings.json
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
